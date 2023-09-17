@@ -1,0 +1,12 @@
+Q2. Comments in HTML serve the purpose of providing explanatory or informational notes within the HTML code that are not visible to website visitors. They are used for documentation, explanations, reminders, or for temporarily disabling code without removing it entirely. HTML comments are ignored by web browsers and do not affect the rendering of the webpage.
+
+To create a comment in HTML, we use the <!-- and --> tags to enclose the comment text.
+
+Example:
+
+<!-- This is a comment -->
+
+<!--
+This is a multiline comment.
+It can span multiple lines.
+-->

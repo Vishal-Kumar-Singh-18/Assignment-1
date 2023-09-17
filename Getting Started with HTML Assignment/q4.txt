@@ -1,0 +1,26 @@
+Q4. In HTML, tags and elements are fundamental building blocks used to structure and define the content and layout of a web page. Here's a brief explanation of both terms along with an example:
+
+1. HTML Tags:
+   - HTML tags are used to define the structure and elements of a web page.
+   - Tags are enclosed in angle brackets `< >`.
+   - Tags are often used in pairs, with an opening tag and a closing tag.
+   - The opening tag defines the beginning of an element, and the closing tag defines the end of that element.
+
+   Example of an HTML tag:
+  
+   <p>This is a paragraph.</p>
+
+   In this example, `<p>` is the opening tag, and `</p>` is the closing tag. Together, they define a paragraph element.
+
+2. HTML Elements:
+   - HTML elements are made up of tags and the content or data they enclose.
+   - Elements consist of an opening tag, content, and a closing tag (in most cases).
+   - Elements can be nested within each other to create a hierarchical structure for web content.
+
+   Example of an HTML element:
+ 
+   <h1>This is a heading</h1>
+
+   In this example, `<h1>` is the opening tag, and `</h1>` is the closing tag. The content "This is a heading" is enclosed within the tags, forming an `<h1>` element, which represents a top-level heading.
+
+HTML tags and elements are used to define the structure and content of a webpage, allowing you to create headings, paragraphs, lists, images, links, and more.
